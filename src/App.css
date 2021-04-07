@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.Hero {
+  background-color: #00b1ac;
+}
